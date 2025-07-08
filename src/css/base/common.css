@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
